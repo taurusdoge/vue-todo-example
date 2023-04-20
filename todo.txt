@@ -1,0 +1,3 @@
+ - store todos in redis
+ - improve styling
+ - use Pinia
